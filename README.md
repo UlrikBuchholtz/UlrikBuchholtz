@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Besides writing papers mostly in private repositories, I'm currently working on the [Symmetry book](https://github.com/UniMath/SymmetryBook/): a textbook on group theory from the point of view of univalent mathematics in homotopy type theory.
+
 <!--
 **UlrikBuchholtz/UlrikBuchholtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
